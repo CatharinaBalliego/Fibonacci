@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1S1LVVIIv+jyiuLnX814aMpD0A42p3mLQG4rwo02xjk3aV9gx0DkLd9sfSvcgHXMaWj18dwo58xxd7ULmNYwA==",
+  "success": true,
+  "projectFilePath": "C:\\_PROJETOS\\ESTUDOS\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Catharina\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
+    "C:\\Users\\Catharina\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Catharina\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
